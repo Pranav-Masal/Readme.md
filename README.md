@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Pranav Masal
-**A passionate Python Developer || Data Analyst || Kafka Admin from India*
+**A passionate Python Developer || Data Analyst || genAI
 
 Email Me 👉 ✉️ **pranavmasal0273@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
